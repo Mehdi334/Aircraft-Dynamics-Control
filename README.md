@@ -20,15 +20,12 @@ Jet Stream 31 <br/>
 <br />
 <br />
 Static Longitudinal Stability Defenition:  <br/>
-<img src="https://i.imgur.com/PHGqvcH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
 <img src="https://i.imgur.com/XsyyE4A.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter the number of passes: <br/>
+<img src="https://i.imgur.com/Uuan1uC.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kTUU09X.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
