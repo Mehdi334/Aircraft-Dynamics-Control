@@ -20,7 +20,7 @@ Jet Stream 31 <br/>
 <br />
 <br />
 Static Longitudinal Stability Defenition:  <br/>
-<img src="https://i.imgur.com/XsyyE4A.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XsyyE4A.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
@@ -29,20 +29,14 @@ Enter the number of passes: <br/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CG40I0J.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gixgyNi.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h2>Results</h2>
 Stick free neutral point = 6.16 m = 59.12 % 𝑐, stick fixed neutral point = 5.84 m = 40.27 % 𝑐. These were found by using the equation of the trendline. The neutral point is the furthest back the CG can be pushed whilst maintaining static longitudinal stability. If the CG is at the neutral point, then the aircraft is neutrally stable if it is further aft then it will be unstable. 
 <br />
 <br />
-<p align="center">
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
