@@ -1,9 +1,8 @@
-<h1> Jet 7 - Iron Man Suit</h1>
+<h1> Static Longitudinal Stability Analysis of Jet Stream 31</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-I am a design engineer for the student led initative Jet 7 and a member of the gas turbine team. My contributions include designing the CFD workflow which included splitting the gas turbine in to it's main components (Centrifugal compressor, combustion chamber, axial turbine) so that I could run a coupled simulation utisling the outlet boundary conditions of the first component in the next one for realistic results. This also allowed us to run simulations across different software (ANSYS Fluent and CFX). 
+Elevator angle, trim tab angle and other data was collected on the Jet Stream 31 during six test flights with different seating configurations to move the centre of gravity to calculate stick fixed and stick free neutral points. For each test flight the airspeed was varied without changing the engine power and then the necessary elevator angle to reach equilibrium was recorded for the stick fixed calculations. This is also repeated under stick free conditions and the trim tab angle was recorded at various speeds. For each of the six flights the elevator angle and trim tab angle were plotted against the coefficient of lift at various flight speeds. 
 <br />
 
 
@@ -16,16 +15,16 @@ I am a design engineer for the student led initative Jet 7 and a member of the g
 <h2>Pictures:</h2>
 
 <p align="center">
-Logo: <br/>
-<img src="https://i.imgur.com/o03mf9M.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
+Jet Stream 31 <br/>
+<img src="https://i.imgur.com/CazYBMt.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Static Longitudinal Stability Defenition:  <br/>
+<img src="https://i.imgur.com/PHGqvcH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XsyyE4A.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
@@ -36,6 +35,11 @@ Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<h2>Results</h2>
+Stick free neutral point = 6.16 m = 59.12 % 𝑐, stick fixed neutral point = 5.84 m = 40.27 % 𝑐. These were found by using the equation of the trendline. The neutral point is the furthest back the CG can be pushed whilst maintaining static longitudinal stability. If the CG is at the neutral point, then the aircraft is neutrally stable if it is further aft then it will be unstable. 
+<br />
+<br />
+<p align="center">
 Sanitization complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
