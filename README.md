@@ -17,12 +17,12 @@ Static Longitudinal Stability Defenition:  <br/>
 <img src="https://i.imgur.com/XsyyE4A.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Elevator & Trim Tab Angle plotted against coeficient of lift: <br/>
 <img src="https://i.imgur.com/Uuan1uC.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/kTUU09X.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Slope of previous graphs plotted against centre of gravity:  <br/>
 <img src="https://i.imgur.com/CG40I0J.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/gixgyNi.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
