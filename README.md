@@ -6,12 +6,6 @@ Elevator angle, trim tab angle and other data was collected on the Jet Stream 31
 <br />
 
 
-<h2> Software Used</h2>
-
-- <b>ANSYS Fluent</b> 
-- <b>ANSYS CFX</b>
-
-
 <h2>Pictures:</h2>
 
 <p align="center">
